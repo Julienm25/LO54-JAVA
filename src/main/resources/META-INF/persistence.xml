@@ -3,6 +3,7 @@
   <persistence-unit name="ecole" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>fr.utbm.dvdstore.core.entity.Location</class>
+    <class>fr.utbm.dvdstore.core.entity.Course</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/ECOLE"/>
       <property name="javax.persistence.jdbc.user" value="ecole"/>
