@@ -1,6 +1,6 @@
-package fr.utbm.dvdstore.core.repository;
+package fr.utbm.ecole.core.repository;
 
-import fr.utbm.dvdstore.core.entity.Course;
+import fr.utbm.ecole.core.entity.Course;
 
 /**
  *

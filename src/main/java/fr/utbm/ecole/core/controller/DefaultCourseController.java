@@ -1,7 +1,7 @@
-package fr.utbm.dvdstore.core.controller;
+package fr.utbm.ecole.core.controller;
 
-import fr.utbm.dvdstore.core.entity.Course;
-import fr.utbm.dvdstore.core.service.CourseService;
+import fr.utbm.ecole.core.entity.Course;
+import fr.utbm.ecole.core.service.CourseService;
 import java.util.Scanner;
 
 /**

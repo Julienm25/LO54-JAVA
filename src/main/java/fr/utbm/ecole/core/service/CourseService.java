@@ -1,10 +1,10 @@
-package fr.utbm.dvdstore.core.service;
+package fr.utbm.ecole.core.service;
 
-import fr.utbm.dvdstore.core.entity.Course;
-import fr.utbm.dvdstore.core.repository.ConsoleCourseDao;
-import fr.utbm.dvdstore.core.repository.EntityCourseDao;
-import fr.utbm.dvdstore.core.repository.JdbcCourseDao;
-import fr.utbm.dvdstore.core.repository.HibernateCourseDao;
+import fr.utbm.ecole.core.entity.Course;
+import fr.utbm.ecole.core.repository.ConsoleCourseDao;
+import fr.utbm.ecole.core.repository.EntityCourseDao;
+import fr.utbm.ecole.core.repository.JdbcCourseDao;
+import fr.utbm.ecole.core.repository.HibernateCourseDao;
 import java.util.ArrayList;
 
 /**
